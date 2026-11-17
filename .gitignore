@@ -7,6 +7,10 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
-# Text corpus (not uploaded to GitHub)
+.venv/
+
+# Text corpus
 data/
+
+# Pytest cache
+.pytest_cache/
